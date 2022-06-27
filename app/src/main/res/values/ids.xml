@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dog_image" type="id">dog_image</item>
+    <item name="dog_age" type="id">dog_age</item>
+    <item name="dog_hobby" type="id">dog_hobby</item>
+</resources>
